@@ -1,0 +1,36 @@
+---
+title: "Services"
+format: html
+---
+
+# Nos Prestations 
+
+## Bouquet d'argent 💵
+
+Offrez une surprise originale et élégante.
+
+![](images/834098349_122198951360787923_674852026874801225_n.jpg)
+
+## Bouquet de fleurs 💐
+
+Pour exprimer vos sentiments avec douceur.
+
+![](images/749286638_122189725268787923_6840543575266595222_n.jpg)
+
+## Cadeaux personnalisés 🎁 
+
+Des présents adaptés à chaque occasion.
+
+![](images/741402720_122188821260787923_8584144407805472211_n.jpg)
+
+## Animation musicale 🎸
+
+Nos artistes accompagnent la livraison pour un moment magique.
+
+![](images/736349284_122187852200787923_8845839579705633938_n.jpg)
+
+## Messages personnalisés 💌 
+
+Vos mots transmis avec émotion.
+
+![](images/749076683_122189725226787923_8632539978693185308_n.jpg)

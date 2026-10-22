@@ -1,0 +1,14 @@
+---
+title: "contact"
+format: html
+---
+
+# Contactez-nous
+
+📍 Toliara, Madagascar
+
+📱 +261 34 08 764 72
+
+Suivez nous sur facebook [Teako](https://www.facebook.com/profile.php?id=61573637698647 "page facebook")
+
+![](images/701459526_122183012048787923_3174884185735401852_n.jpg){fig-align="center"}
